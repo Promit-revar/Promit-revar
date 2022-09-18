@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Deep Learning
-- 🌱 I’m currently learning Backend and trying to explore ML as well.
+- 🔭 I’m currently working on Full stack Web Developement
+- 🌱 I have learnined and worked on various Machine learning and Deeplearning
 - 👯 always up for collaborations on projects and hacks
 <!--
 **Promit-revar/Promit-revar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
